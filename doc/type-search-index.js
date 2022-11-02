@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"my.app2","l":"Member"},{"p":"my.app2","l":"PongGui.MyHandler"},{"p":"my.app2","l":"MyJoinPanel"},{"p":"my.app2","l":"MyLoginPanel"},{"p":"my.app2","l":"MyUserPanel"},{"p":"my.app2","l":"NotSupportedNameException"},{"p":"my.app2","l":"PongGui"}]
